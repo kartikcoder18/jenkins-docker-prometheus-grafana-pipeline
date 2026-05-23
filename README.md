@@ -27,3 +27,14 @@ This project demonstrates an end-to-end DevOps CI/CD and monitoring pipeline for
 - Monitoring and observability
 - Code quality checks
 - Automated deployment verification
+
+## Screenshots
+
+### Application Running
+![Application](app.png)
+
+### Prometheus Monitoring
+![Prometheus](prometheus.png)
+
+### Grafana Dashboard
+![Grafana](grafana.png)
